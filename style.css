@@ -1,0 +1,43 @@
+#container{
+	width: 95%;
+	margin-left:auto;
+	margin-right:auto;
+	border-style:solid;
+	border-radius: 0.8em;
+	background-color:#6FB98F;
+	height: 100%;
+	margin-top:5em;
+
+}
+.text1{
+	padding:10px;
+	
+}
+
+#title{
+	text-align: center;
+	background-color:#6FB98F;
+	background-color:#004445;
+	background-color:#021C1E;
+	background-color:#2C7873;
+	font-family: verdana;
+	font-size: 5em;
+	color:white;
+	border-style:dotted;
+	border-radius:0.1em;
+	margin-top:0;
+	width:95%;	
+	padding:5px;
+	display:none;
+
+}
+
+#header{
+	background:red;
+	padding:10px;
+	border-style:solid;
+	text-align:right;
+	width:98%;
+	position: fixed;
+	top:5px;
+}
